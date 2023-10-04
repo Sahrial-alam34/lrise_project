@@ -74,10 +74,26 @@
 color: #28a745;
 }
 
-#service{
+.service{
  background-color: #d9ecd9;
 }
 .works-bg{
     background-image: url("../image/works/shape-2.png");
 }
 
+
+
+.date{
+    height: 75px;
+    width: 70px;
+}
+
+.custom-text-box {
+    background-color: black;
+    color: white;
+    border: none;
+  }
+
+  .custom-text-box::placeholder {
+    color: white; /* Placeholder text color */
+  }

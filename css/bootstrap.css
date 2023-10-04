@@ -4969,7 +4969,7 @@ textarea.form-control-lg {
   overflow: hidden;
   font-size: var(--bs-progress-font-size);
   background-color: var(--bs-progress-bg);
-  border-radius: var(--bs-progress-border-radius);
+  /* border-radius: var(--bs-progress-border-radius); */
 }
 
 .progress-bar {
